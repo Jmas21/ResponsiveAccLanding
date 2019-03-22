@@ -1,0 +1,24 @@
+{
+  "name": "ResponsiveAccLanding",
+  "version": "1.0.0",
+  "description": "ResponsiveAccLanding",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmas21/ResponsiveAccLanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Jmas21.github.io/EdgeLedgerFlex",
+  "bugs": {
+    "url": "https://github.com/Jmas21/ResponsiveAccLanding/issues"
+  },
+  "homepage": "https://github.com/Jmas21/ResponsiveAccLanding#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
